@@ -2,7 +2,7 @@
 - AVL tree is self-balance binary search tree. The goal of this project is to implement the AVL tree data structure using Java programing language.
   After each element insert to the AVL Tree, the output information that print out in the command line should show the details of AVL tree.  
 
-## How to run the project
+## How to Complier and run the code
 - Steps
 
   1.Download the java source file, which named "AVLTreeTeste.java", to your desktop directory.
