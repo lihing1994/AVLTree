@@ -27,7 +27,7 @@
   takes two parameters that are used to perform rotate left then rotate right operation.
   For example, when we insert elements 1,3 and 5 to the AVL tree, we just need to make the
   tree balance by one rotate operation, which is to rate left. Therefore, we just need to make the
-  tree balance by calling the rotate_left function with only one parameter.
+  tree balance by calling the rotate_left function with only one parameter.<br/>
   ![CS146_Homework_4-2](https://user-images.githubusercontent.com/25276186/71612520-d0971c00-2b55-11ea-813c-4c663ec6e967.jpg)
   
   In some situations, when we try to perform the two operations to make the AVL tree balance,
